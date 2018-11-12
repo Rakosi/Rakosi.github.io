@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+3 main interests:
+
+- Deep learning + Python
+- Rendering (GPU)
+- AR/VR
 
 ### More Information
 
@@ -12,4 +16,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yalimdre@gmail.com](mailto:yalimdre@gmail.com)
